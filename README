@@ -1,0 +1,5 @@
+Given a causal dynamical triangulation (CDT) (http://en.wikipedia.org/wiki/Causal_dynamical_triangulation) of a fixed size, this code counts the number of sparse domino tailings (http://en.wikipedia.org/wiki/Domino_tiling) of the triangulation. The dominos are often referred to as dimers in the statistical mechanics literature. The result of this counting for CDTs of increasing size are contained in results.txt.
+
+This code was used to verify the work in the paper http://arxiv.org/abs/1202.4322.
+
+I release this code free of all copyright restrictions.
